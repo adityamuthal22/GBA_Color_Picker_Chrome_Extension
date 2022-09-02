@@ -23,5 +23,5 @@ In this project, we made a color picker extension which is use for the pick up t
 ### GBA Color Picker images :
 
 ![Screenshot (951)](https://user-images.githubusercontent.com/99644302/188098356-b31ed105-f048-4236-a685-e4f565249344.png)
-
+<hr/>
 ![Screenshot (950)](https://user-images.githubusercontent.com/99644302/188098328-0a938088-b390-4a02-8abe-b9e369003bb7.png)
