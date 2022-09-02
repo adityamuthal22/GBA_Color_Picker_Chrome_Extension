@@ -17,7 +17,7 @@ In this project, we made a color picker extension which is use for the pick up t
 * CSS
 * Javascript
 
-### Check our website at :
+### Check our extension :
  * GitHub- https://github.com/adityamuthal22/GBA_Chrome_Extension
 
 ### GBA Color Picker images :
