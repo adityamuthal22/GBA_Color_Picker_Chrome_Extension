@@ -11,6 +11,13 @@
         "activeTab",
         "scripting"
     ],
-    "options_page": "gba.html"
-    
+    "options_page": "gba.html",
+    "action": {
+        "default_popup": "picker.html"
+    },
+    "icons": {
+        "16": "/images/pencil16.png",
+        "32": "/images/pencil32.png",
+        "64": "/images/pencil64.png"
+    }
 }
