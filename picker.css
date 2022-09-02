@@ -1,0 +1,33 @@
+body {
+    background: #e3e9ee;
+}
+.wrapper {
+    width: 280px;
+    text-align: center;
+}
+.colorBtn {
+    width: 190px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 4px;
+    background: #95ecc9;
+    cursor: pointer;
+}
+.gridItem {
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    border-radius: 3px;
+}
+
+.selectedColor {
+    display: flex;
+    align-items: center;
+    margin-top: 19px;
+}
+
+.colValue {
+    margin-left: 6px;
+    font-weight: 700;
+}
